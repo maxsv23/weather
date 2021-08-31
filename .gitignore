@@ -24,3 +24,6 @@ DerivedData/
 
 ## Gcc Patch
 /*.gcno
+weather/Assets.xcassets/.DS_Store
+weather/.DS_Store
+.DS_Store
